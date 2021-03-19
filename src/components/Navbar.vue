@@ -4,7 +4,7 @@
     <b-navbar type="light" class="shadow" toggleable="mg">
       <b-navbar-nav>
         <div>
-          <b-navbar-toggle target="sidebar" class="mr-1 toggle-button" disabled></b-navbar-toggle>
+          <b-navbar-toggle target="sidebar" class="mr-1 toggle-button" ></b-navbar-toggle>
           <b-link to="/">
             <img src="https://i.imgur.com/CbTBSvh.png" alt="" style="width: 120px;">
             </b-link>
