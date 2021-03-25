@@ -1,5 +1,5 @@
 # lab-corregedoria
-
+O projeto necessita do YARN, instale aqui: https://yarnpkg.com/
 
 ## Project setup
 Inicialmente execute o comando abaixo para instalar as dependencias do projeto:
