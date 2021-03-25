@@ -19,4 +19,4 @@ Para compilar o projeto, executar o comando abaixo:
 ```
 yarn build
 ```
-
+Após o build, copiar o conteúdo da pasta ```dist``` para a pasta do servidor.

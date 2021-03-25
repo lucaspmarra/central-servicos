@@ -1,7 +1,7 @@
 {
   "name": "lab-corregedoria",
   "author": "Lucas Marra <lucas.marra.terceirizado@tre-go.jus.br>",
-  "version": "0.1.0",
+  "version": "5.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
