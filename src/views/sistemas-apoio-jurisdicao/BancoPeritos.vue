@@ -12,20 +12,19 @@
 
       <div class="pt-3">
         <h4>Link de acesso:</h4>
-        <p><a href="http://corregedoria.tjgo.jus.br/bancodeperitos/login ">http://corregedoria.tjgo.jus.br/bancodeperitos/login </a>
+        <p><a href="http://corregedoria.tjgo.jus.br/bancodeperitos/buscar?page=10">http://corregedoria.tjgo.jus.br/bancodeperitos/buscar?page=10</a>
         </p>
-
       </div>
 
       <div class="pt-3">
         <h4>Forma de acesso:</h4>
-        <p>Certificado Digital (Token) ou CPF e Senha do SCA/CNJ</p>
+        <p>Sistema de consultas públicas.</p>
       </div>
 
-      <div class="pt-3">
-        <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="#">Formulário - Solicitação de Acesso</a> e enviar à ASGES via SEI.</p>
-      </div>
+<!--      <div class="pt-3">-->
+<!--        <h4>Solicitação de acesso:</h4>-->
+<!--        <p>Preencher o <a href="#">Formulário - Solicitação de Acesso</a> e enviar à ASGES via SEI.</p>-->
+<!--      </div>-->
 
 <!--      <div class="pt-3">-->
 <!--        <h4>Mais informações:</h4>-->

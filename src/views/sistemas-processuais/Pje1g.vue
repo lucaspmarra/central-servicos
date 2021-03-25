@@ -52,8 +52,8 @@
 
       <div class="pt-3">
         <h4>Suporte:</h4>
-        <p>SEGEC, e-mail: <a href="mailto:apoio-lista@tre-go.jus.br">apoio-lista@tre-go.jus.br</a></p>
-        <p>PJE Suporte, e-mail: <a href="mailto:pje_suporte-lista@tre-go.jus.br">apoio-lista@tre-go.jus.br</a></p>
+<!--        <p>SEGEC, e-mail: <a href="mailto:apoio-lista@tre-go.jus.br">apoio-lista@tre-go.jus.br</a></p>-->
+        <p>PJE Suporte, e-mail: <a href="mailto:pje_suporte-lista@tre-go.jus.br">pje_suporte@tre-go.jus.br)</a></p>
 
       </div>
     </section>

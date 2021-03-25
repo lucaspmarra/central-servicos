@@ -7,7 +7,7 @@
 
       <div class="pt-5 text-center">
         <h1>AVISO</h1>
-        <p>Devido a problemas técnicos, o acesso ao Sistema de Informações Eleitorais - SIEL permanecerá indisponível
+        <p>Por deliberação da Diretoria-Geral do Tribunal Superior Eleitoral, o acesso ao Sistema de Informações Eleitorais - SIEL permanecerá indisponível
           por tempo indeterminado.</p>
       </div>
 

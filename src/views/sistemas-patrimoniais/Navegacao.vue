@@ -1,5 +1,10 @@
 <template>
-<router-view/>
+  <transition>
+    <keep-alive>
+      <router-view/>
+    </keep-alive>
+  </transition>
+
 </template>
 
 <script>

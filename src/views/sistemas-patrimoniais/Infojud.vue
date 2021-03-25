@@ -2,7 +2,7 @@
   <div>
     <section class="pb-5">
       <div class="text-center pt-4">
-        <img src="@/assets/infojud.png" alt="img">
+        <img src="@/assets/infojud.png" alt="INFOJUD">
       </div>
 
       <div class="pt-5">
