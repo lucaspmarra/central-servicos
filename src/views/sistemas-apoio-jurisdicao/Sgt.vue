@@ -39,7 +39,7 @@
 
       <div class="pt-3">
         <h4>Normativos:</h4>
-        <p><a href="#">Resolução-CNJ n. 46, de 18 de dezembro de 2007</a></p>
+        <p><a href="https://atos.cnj.jus.br/atos/detalhar/167">Resolução-CNJ n. 46, de 18 de dezembro de 2007</a></p>
       </div>
 
 <!--      <div class="pt-3">-->

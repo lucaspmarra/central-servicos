@@ -5,32 +5,38 @@
         <img src="@/assets/sinic.png" alt="img">
       </div>
 
-      <div class="pt-5">
+      <div class="pt-5 text-center text-danger">
+        <h4>- em implantação -</h4>
+      </div>
+
+      <div class="pt-3">
         <h4>Para que serve:</h4>
-        <p>Banco de dados criminal da Polícia Federal, sendo este empregado principalmente para a emissão de Certidões e
-          Folhas de Antecedentes e comunicação de decisões judiciais.</p>
+        <p>Sistema gerenciado pela Polícia Federal e alimentado a partir de deciões que impactam sobre históricos
+          criminais individuais. Tais informações são registradas pelas Polícias Federal, Rodoviária Federal, Civis e
+          Penais, e também por órgãos das Justiças Estaduais, Federal e Eleitoral. É empregado principalmente para a
+          emissão de certidões e folhas de antecedentes criminais.</p>
       </div>
 
       <div class="pt-3">
         <h4>Link de acesso:</h4>
-        <p><a href="#">(em implantação)</a>
+        <p><a href="#">A ser definido</a>
         </p>
-
       </div>
 
       <div class="pt-3">
         <h4>Forma de acesso:</h4>
-        <p>(em implantação)</p>
+        <p>A ser definido</p>
       </div>
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="#">Formulário - Solicitação de Acesso</a> e enviar à ASGES via SEI.</p>
+        <p>Via SEI, preencher o "Formulário - Acesso a Sistema - Corregedoria" e enviar para a Assessoria de
+          Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria</p>
       </div>
 
       <div class="pt-3">
         <h4>Mais informações:</h4>
-        <p><a href="https://www.cnj.jus.br/sistema-carcerario/bnmp-2-0/">https://www.cnj.jus.br/sistema-carcerario/bnmp-2-0/</a>
+        <p><a href="#">A serem definidas</a>
         </p>
 
       </div>
@@ -38,7 +44,8 @@
       <div class="pt-3">
         <h4>Normativos:</h4>
         <p><a href="#">Acordo de Cooperação </a>Técnica entre o TRE-GO e a Polícia Federal em 27/07/2020.</p>
-        <p><a href="">Código de Processo Penal, art. 809, §3º</a></p>
+        <p><a href="http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del3689.htm#art809">Código de Processo Penal, art.
+          809, §3º</a></p>
       </div>
 
       <div class="pt-3">

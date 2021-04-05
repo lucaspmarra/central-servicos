@@ -137,7 +137,7 @@ html, body {
   /* rtl:remove */
   left: 0;
   z-index: 100; /* Behind the navbar */
-  padding: 0 0 0; /* Height of navbar */
+  padding: 0 0 0 0; /* Height of navbar */
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
   width: 75px;
   background-color: #FFFFFF;
@@ -153,7 +153,6 @@ html, body {
 .sidebar:hover a,
 .sidebar:focus a {
   font-size: 14px;
-
 }
 
 .sidebar:hover {
@@ -162,7 +161,7 @@ html, body {
   bottom: 0;
   left: 0;
   z-index: 100; /* Behind the navbar */
-  padding: 0 0 0; /* Height of navbar */
+  padding: 0 0 0 0; /* Height of navbar */
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
   width: 200px;
   background-color: #FFFFFF;

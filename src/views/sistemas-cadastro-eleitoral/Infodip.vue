@@ -14,6 +14,13 @@
       </div>
 
       <div class="pt-3">
+        <h4>Manual do Sistema:</h4>
+        <p><a
+            href="https://www.justicaeleitoral.jus.br/arquivos/tre-go-manual-do-infodip-web/rybena_pdf?file=https://www.justicaeleitoral.jus.br/arquivos/tre-go-manual-do-infodip-web/at_download/file">https://www.justicaeleitoral.jus.br/arquivos/tre-go-manual-do-infodip-web/rybena_pdf?file=https://www.justicaeleitoral.jus.br/arquivos/tre-go-manual-do-infodip-web/at_download/file</a>
+        </p>
+      </div>
+
+      <div class="pt-3">
         <h4>Link de acesso:</h4>
         <p><a href="https://apps.tre-go.jus.br/infodipweb/home/ ">https://apps.tre-go.jus.br/infodipweb/home/ </a>
         </p>
@@ -44,7 +51,7 @@
         <h4>Normativos:</h4>
         <p><a
             href="https://www.justicaeleitoral.jus.br/arquivos/tre-go-provimento-vp-cre-3-2016/rybena_pdf?file=https://www.justicaeleitoral.jus.br/arquivos/tre-go-provimento-vp-cre-3-2016/at_download/file">Provimento
-          VP-CRE/GO nº 03/2016 [PDF]</a></p>
+          Provimento VPCRE nº 3/2016</a></p>
 
       </div>
 

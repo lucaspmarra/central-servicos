@@ -7,8 +7,10 @@
 
       <div class="pt-5">
         <h4>Para que serve:</h4>
-        <p>Fornece os dados dos peritos cadastrados pela Corregedoria Geral de Justiça do Estado de Goiás.</p>
+        <p>Fornece, para consulta, os dados dos peritos cadastrados pela Corregedoria-Geral de Justiça do Estado de Goiás.</p>
       </div>
+
+
 
       <div class="pt-3">
         <h4>Link de acesso:</h4>
@@ -18,7 +20,7 @@
 
       <div class="pt-3">
         <h4>Forma de acesso:</h4>
-        <p>Sistema de consultas públicas.</p>
+        <p>Não é necessário login. Sistema disponível para consultas públicas</p>
       </div>
 
 <!--      <div class="pt-3">-->
@@ -33,7 +35,7 @@
 
       <div class="pt-3">
         <h4>Normativos:</h4>
-        <p><a href="#">Resolução TRE-GO nº 324/2020</a></p>
+        <p><a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/resolucao/resolucao-202000324.htm">Resolução TRE-GO nº 324/2020</a></p>
       </div>
 
       <div class="pt-3">

@@ -5,11 +5,21 @@
         <img src="@/assets/serasajud.png" alt="img">
       </div>
 
-      <div class="pt-5">
+      <div class="pt-5 text-center text-danger">
+        <h4>- em implantação -</h4>
+      </div>
+
+      <div class="pt-3">
         <h4>Para que serve:</h4>
         <p>Para facilitar a tramitação dos ofícios entre os tribunais e a Serasa Experian, através da troca eletrônica
           de dados, utilizando a certificação digital para mais segurança. Não havendo mais solicitações enviadas em
           papel, apenas eletrônicas. </p>
+      </div>
+
+      <div class="pt-3">
+        <h4>Manual do Sistema:</h4>
+        <p><a href="https://www.serasaexperian.com.br/images-cms/wp-content/uploads/2021/01/MANUAL-VERSAO-6-PDF.pdf">https://www.serasaexperian.com.br/images-cms/wp-content/uploads/2021/01/MANUAL-VERSAO-6-PDF.pdf</a>
+        </p>
       </div>
 
       <div class="pt-3">
@@ -21,12 +31,13 @@
 
       <div class="pt-3">
         <h4>Forma de acesso:</h4>
-        <p>Certificado Digital (Token)</p>
+        <p>Acesso exclusivo via certificado digital (token).</p>
       </div>
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="#">Formulário - Solicitação de Acesso</a> e enviar à ASGES via SEI.</p>
+        <p>Via SEI, preencher o "Formulário - Acesso a Sistema - Corregedoria" e enviar para a Assessoria de
+          Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria</p>
       </div>
 
       <div class="pt-3">
@@ -37,12 +48,14 @@
 
       <div class="pt-3">
         <h4>Normativos:</h4>
-        <a href="#">Termo de Cooperação Técnica nº 15/2019</a>
+        <a href="http://intranet.tre-go.gov.br/sistemas/publicacoes/downloads/201909131342306671.pdf">Termo de
+          Cooperação Técnica nº 15/2019</a>
       </div>
 
       <div class="pt-3">
         <h4>Suporte:</h4>
-        <p>Email: <a href="mailto:serasajud@br.experian.com">serasajud@br.experian.com</a> ou Telefone: (16) 3422-7001</p>
+        <p>Email: <a href="mailto:serasajud@br.experian.com">serasajud@br.experian.com</a> ou Telefone: (16) 3422-7001
+        </p>
       </div>
     </section>
 

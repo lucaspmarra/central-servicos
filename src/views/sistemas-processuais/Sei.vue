@@ -17,6 +17,13 @@
       </div>
 
       <div class="pt-3">
+        <h4>Manual do Sistema:</h4>
+        <p><a
+            href="http://intranet.tre-go.gov.br/nova/servicos/sistemas/SEI-Manual-ProjetoEnapSemPapel.pdf">http://intranet.tre-go.gov.br/nova/servicos/sistemas/SEI-Manual-ProjetoEnapSemPapel.pdf</a>
+        </p>
+      </div>
+
+      <div class="pt-3">
         <h4>Link de acesso:</h4>
         <p>SEI TRE-GO: <a
             href="https://sei.tre-go.jus.br/sip/login.php?sigla_orgao_sistema=TRE-GO&sigla_sistema=SEI&infra_url=L3NlaS8=">https://sei.tre-go.jus.br/sip/login.php?sigla_orgao_sistema=TRE-GO&sigla_sistema=SEI&infra_url=L3NlaS8=</a>
@@ -34,7 +41,8 @@
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Enviar solicitação para a SEGEC <a href="apoio-lista@tre-go.jus.br">apoio-lista@tre-go.jus.br</a></p>
+        <p>Encaminhar à Seção de Gestão da Central de Serviços (SEGEC-STI), por e-mail, solicitação de acesso informando
+          os dados pessoais (Nome, lotação, endereço de e-mail institucional e número do título eleitoral).</p>
       </div>
 
       <div class="pt-3">
@@ -44,11 +52,11 @@
 
       </div>
 
-<!--      <div class="pt-3">-->
-<!--        <h4>Normativos:</h4>-->
-<!--        <p><a href="https://atos.cnj.jus.br/atos/detalhar/3336">Provimento Corregedoria Nacional de Justiça-->
-<!--          nº102/2020</a></p>-->
-<!--      </div>-->
+      <div class="pt-3">
+        <h4>Normativos:</h4>
+        <p><a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/resolucao/resolucao-202000336.htm">Resolução
+          TRE/GO nº 336/2020</a></p>
+      </div>
 
       <div class="pt-3">
         <h4>Suporte:</h4>

@@ -13,20 +13,26 @@
       </div>
 
       <div class="pt-3">
+        <h4>Manual do Sistema:</h4>
+        <p><a href="https://renajud.denatran.serpro.gov.br/renajud/ajuda/manual.pdf">https://renajud.denatran.serpro.gov.br/renajud/ajuda/manual.pdf</a>
+        </p>
+      </div>
+
+      <div class="pt-3">
         <h4>Link de acesso:</h4>
         <p><a href="https://renajud.denatran.serpro.gov.br/renajud/login.jsf">https://renajud.denatran.serpro.gov.br/renajud/login.jsf</a>
         </p>
-
       </div>
 
       <div class="pt-3">
         <h4>Forma de acesso:</h4>
-        <p>Certificado Digital (Token)</p>
+        <p>Acesso exclusivo via certificado digital (token)</p>
       </div>
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="#">Formulário - Solicitação de Acesso</a> e enviar à ASGES via SEI.</p>
+        <p>Via SEI, preencher o "Formulário - Acesso a Sistema - Corregedoria" e enviar para a Assessoria de
+          Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria</p>
       </div>
 
       <div class="pt-3">
@@ -37,7 +43,8 @@
 
       <div class="pt-3">
         <h4>Normativos:</h4>
-        <p><a href="">Termo de Cooperação Técnica</a> celebrado entre o Conselho Nacional de Justiça, o Ministério das
+        <p><a href="http://intranet.tre-go.gov.br/sistemas/publicacoes/noticia_visualizar.php?id=191220191641232147 ">Termo
+          de Cooperação Técnica</a> celebrado entre o Conselho Nacional de Justiça, o Ministério das
           Cidades e o Ministério da Justiça.</p>
       </div>
 

@@ -3,7 +3,7 @@
     <div class="text-center pb-4 text-uppercase"><h2>Central de Sistemas</h2></div>
     <b-card-group deck class="text-center">
       <b-card>
-        <img class="card-img"  src="@/assets/png/001-analytics.png" alt="Sistemas Patrimoniais">
+        <img class="card-img" src="@/assets/png/001-analytics.png" alt="Sistemas Patrimoniais">
         <h4 class="text-center pt-1">Sistemas Patrimoniais</h4>
         <b-link class="stretched-link" to="/sistemas-patrimoniais"></b-link>
         <!--        <a href="/sistemas-patrimoniais" class="stretched-link"></a>-->
@@ -19,7 +19,7 @@
       <!--      <b-card title="Sistemas de Apoio à Jurisdição" img-src="https://picsum.photos/300/300/" img-alt="Image"-->
       <!--              img-top>-->
       <b-card>
-        <img class="card-img"  src="@/assets/png/012-connection.png" alt="Sistemas de Apoio à Jurisdição">
+        <img class="card-img" src="@/assets/png/012-connection.png" alt="Sistemas de Apoio à Jurisdição">
         <h4>Sistemas de Apoio à Jurisdição</h4>
         <b-link class="stretched-link" to="/sistemas-apoio-jurisdicao"></b-link>
         <br>
@@ -43,7 +43,7 @@
           <p>JUSTIFICA</p>
           <p>INFODIP</p>
           <p>SIEL</p>
-<!--          <p>ELO</p>-->
+          <!--          <p>ELO</p>-->
         </b-card-text>
       </b-card>
 
@@ -94,15 +94,19 @@ ul {
   --box-shadow-color: rgba(206, 178, 252, 0.48);
 }
 
+
 .card:hover {
   transform: translateY(-5px) scale(1.005) translateZ(0);
   box-shadow: 0 24px 36px rgba(0, 0, 0, 0.11),
   0 24px 46px var(--box-shadow-color);
+
 }
+
 .card-img {
   width: 140px;
   transition: all 0.6s ease-out;
 }
+
 @media screen and (max-width: 1199px) {
   .card-img {
     width: 130px;

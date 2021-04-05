@@ -12,10 +12,15 @@
       </div>
 
       <div class="pt-3">
+        <h4>Manual do Sistema:</h4>
+        <p><a href="https://www.cnj.jus.br/wp-content/uploads/2011/02/infojud_manual.pdf">https://www.cnj.jus.br/wp-content/uploads/2011/02/infojud_manual.pdf</a>
+        </p>
+      </div>
+
+      <div class="pt-3">
         <h4>Link de acesso:</h4>
         <p><a href="https://cav.receita.fazenda.gov.br/autenticacao/login/index">https://cav.receita.fazenda.gov.br/autenticacao/login/index</a>
         </p>
-
       </div>
 
       <div class="pt-3">
@@ -25,7 +30,7 @@
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="#">Formulário - Solicitação de Acesso</a> e enviar à ASGES via SEI.</p>
+        <p>Preencher o formulário "Formulário - Acesso a Sistema - Corregedoria" e enviar, via Processo SEI, à Assessoria de Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria</p>
       </div>
 
       <div class="pt-3">
@@ -36,9 +41,9 @@
 
       <div class="pt-3">
         <h4>Normativos:</h4>
-        <p><a href="#">Convênio celebrado entre o Conselho Nacional de Justiça (CNJ) e a Secretaria da Receita Federal
+        <p><a>Convênio celebrado entre o Conselho Nacional de Justiça (CNJ) e a Secretaria da Receita Federal
           (RFB)</a></p>
-        <p><a href="">Portaria nº 066/2020 – PRES do TRE-GO</a></p>
+        <p><a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/portaria-da-presidencia/portaria-da-presidencia-202000066.htm">Portaria nº 066/2020 – PRES do TRE-GO</a></p>
       </div>
 
       <div class="pt-3">

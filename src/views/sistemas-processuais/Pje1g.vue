@@ -13,6 +13,13 @@
       </div>
 
       <div class="pt-3">
+        <h4>Manual do Sistema:</h4>
+        <p><a
+            href="http://www.pje.jus.br/wiki/index.php/Manual_dos_Representantes">http://www.pje.jus.br/wiki/index.php/Manual_dos_Representantes</a>
+        </p>
+      </div>
+
+      <div class="pt-3">
         <h4>Link de acesso:</h4>
         <p><a href="https://pje1g.tse.jus.br/pje/">https://pje1g.tse.jus.br/pje/</a>
         </p>
@@ -22,8 +29,8 @@
       <div class="pt-3">
         <h4>Forma de acesso:</h4>
         <p>Certificado Digital (Token) <i>OU</i></p>
-        <p>PjeToken Mobile (aplicativo de celular) <i>OU</i></p>
-        <p>CPF e Senha</p>
+        <p>CPF e Senha juntamente com PjeToken Mobile (aplicativo de celular), para que possa ser liberado a
+          assinatura</p>
       </div>
 
       <div class="pt-3">
@@ -40,20 +47,38 @@
 
       <div class="pt-3">
         <h4>Mais informações:</h4>
-        <p><a href="http://www.pje.jus.br/wiki/index.php/P%C3%A1gina_principal">http://www.pje.jus.br/wiki/index.php/P%C3%A1gina_principal</a></p>
+        <p><a href="http://www.pje.jus.br/wiki/index.php/P%C3%A1gina_principal">http://www.pje.jus.br/wiki/index.php/P%C3%A1gina_principal</a>
+        </p>
 
       </div>
 
-<!--      <div class="pt-3">-->
-<!--        <h4>Normativos:</h4>-->
-<!--        <p><a href="">Termo de Cooperação Técnica</a> celebrado entre o Conselho Nacional de Justiça, o Ministério das-->
-<!--          Cidades e o Ministério da Justiça.</p>-->
-<!--      </div>-->
+      <div class="pt-3">
+        <h4>Normativos:</h4>
+        <p>
+          <a href="https://atos.cnj.jus.br/atos/detalhar/1933">Resolução CNJ nº 185/2013</a>
+        </p>
+        <p>
+          <a href="https://www.tse.jus.br/legislacao/codigo-eleitoral/normas-editadas-pelo-tse/resolucao-no-23-417-de-11-de-dezembro-de-2014-brasilia-df">Resolução
+            TSE nº 23.417/2014</a>
+        </p>
+        <p>
+          <a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/resolucao/resolucao-201600245.htm">Resolução
+            TRE/GO nº 245/2016</a>
+        </p>
+        <p>
+          <a href="https://www.tse.jus.br/legislacao/compilada/prt/2019/portaria-no-344-de-08-de-maio-de-2019">Portaria
+            TSE nº 344/2019</a>
+        </p>
+        <p>
+          <a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/portaria-da-presidencia/portaria-da-presidencia-201900108.htm">Portaria
+            TRE/GO nº 108/2019</a>
+        </p>
+      </div>
 
       <div class="pt-3">
         <h4>Suporte:</h4>
-<!--        <p>SEGEC, e-mail: <a href="mailto:apoio-lista@tre-go.jus.br">apoio-lista@tre-go.jus.br</a></p>-->
-        <p>PJE Suporte, e-mail: <a href="mailto:pje_suporte-lista@tre-go.jus.br">pje_suporte@tre-go.jus.br)</a></p>
+        <!--        <p>SEGEC, e-mail: <a href="mailto:apoio-lista@tre-go.jus.br">apoio-lista@tre-go.jus.br</a></p>-->
+        <p>PJE Suporte, e-mail: <a href="mailto:pje_suporte-lista@tre-go.jus.br">pje_suporte@tre-go.jus.br</a></p>
 
       </div>
     </section>

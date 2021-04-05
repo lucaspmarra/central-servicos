@@ -34,6 +34,9 @@
       <b-card>
         <img src="@/assets/png/funding.png" alt="SERASAJUD" class="card-img">
         <h4>SERASAJUD</h4>
+        <b-card-text>
+          Sistema de Envio de Ordens Judiciais à Serasa Experian
+        </b-card-text>
         <b-link class="stretched-link" to="/navegacao/serasajud"></b-link>
       </b-card>
 
@@ -70,7 +73,7 @@ export default {
 
 @media screen and (max-width: 1000px) {
   .card-img {
-    width: 160px;
+    width: 100px;
   }
 }
 

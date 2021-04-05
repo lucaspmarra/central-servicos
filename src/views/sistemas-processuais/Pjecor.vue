@@ -27,7 +27,7 @@
 
       <div class="pt-3 text-left">
         <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="#">Formulário - Solicitação de Acesso</a> e enviar à ASGES via SEI</p>
+        <p>Preencher o <a>Formulário - Solicitação de Acesso</a> e enviar à ASGES via SEI</p>
       </div>
 
       <div class="pt-3 text-left">
