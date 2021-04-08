@@ -5,7 +5,7 @@
         <!--        <h3>Sistema de Busca de Ativos do Poder Judiciário – SISBAJUD</h3>-->
         <img src="@/assets/sisbajud.png" alt="img">
       </div>
-
+      <b-link class="pb-5" to="/sistemas-patrimoniais">Voltar</b-link>
       <div class="pt-5">
         <h4>Para que serve:</h4>
         <p>Interliga os órgãos do Poder Judiciário ao <strong>Banco Central</strong> e às instituições financeiras, para

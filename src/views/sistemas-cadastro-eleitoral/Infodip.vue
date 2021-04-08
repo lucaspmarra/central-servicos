@@ -4,7 +4,7 @@
       <div class="text-center pt-4">
         <img src="@/assets/infodip-2.jpg" alt="img">
       </div>
-
+      <b-link class="pb-5" to="/sistemas-cadastro-eleitoral">Voltar</b-link>
       <div class="pt-5">
         <h4>Para que serve:</h4>
         <p>O sistema InfoDIP web permite o encaminhamento, por via eletrônica, das comunicações de óbitos, suspensão e

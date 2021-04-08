@@ -50,7 +50,8 @@
         </b-card>
       </b-card-group>
     </div>
-    <a href="/central-de-sistemas">Voltar</a>
+    <b-link class="pb-5" to="/">Voltar</b-link>
+    <!--    <a href="/central-de-sistemas">Voltar</a>-->
   </div>
 </template>
 

@@ -4,7 +4,7 @@
       <div class="text-center pt-4">
         <img src="@/assets/infojud.png" alt="INFOJUD">
       </div>
-
+      <b-link class="pb-5" to="/sistemas-patrimoniais">Voltar</b-link>
       <div class="pt-5">
         <h4>Para que serve:</h4>
         <p>É um serviço oferecido unicamente aos magistrados (e servidores por eles autorizados), que tem como objetivo

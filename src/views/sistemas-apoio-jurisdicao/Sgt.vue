@@ -4,7 +4,7 @@
       <div class="text-center pt-4">
         <img src="@/assets/sgt.png" alt="img">
       </div>
-
+      <b-link class="pb-5" to="/sistemas-apoio-jurisdicao">Voltar</b-link>
       <div class="pt-5">
         <h4>Para que serve:</h4>
         <p>Por meio deste sistema o Conselho Nacional de Justiça, em conjunto com os demais órgãos do Poder Judiciário,

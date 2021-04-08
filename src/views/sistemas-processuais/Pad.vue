@@ -16,6 +16,9 @@
       <!--          administrativas. </p>-->
       <!--      </div>-->
 
+      <b-link class="pb-5" to="/sistemas-processuais">Voltar</b-link>
+
+
       <div class="pt-5">
         <h4>Link de acesso:</h4>
         <p><a
@@ -34,11 +37,11 @@
         <p>Enviar solicitação para a SEGEC <a href="apoio-lista@tre-go.jus.br">apoio-lista@tre-go.jus.br</a></p>
       </div>
 
-<!--      <div class="pt-3">-->
-<!--        <h4>Mais informações:</h4>-->
-<!--        <p><a href="http://sei.goias.gov.br/">http://sei.goias.gov.br/</a>-->
-<!--        </p>-->
-<!--      </div>-->
+      <!--      <div class="pt-3">-->
+      <!--        <h4>Mais informações:</h4>-->
+      <!--        <p><a href="http://sei.goias.gov.br/">http://sei.goias.gov.br/</a>-->
+      <!--        </p>-->
+      <!--      </div>-->
 
       <!--      <div class="pt-3">-->
       <!--        <h4>Normativos:</h4>-->

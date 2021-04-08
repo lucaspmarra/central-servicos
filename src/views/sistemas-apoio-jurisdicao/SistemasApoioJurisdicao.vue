@@ -63,12 +63,15 @@
       <b-card>
         <img src="@/assets/png/riot-police.png" alt="Banco de Peritos" class="card-img">
         <h4>Banco de Peritos</h4>
+        <b-card-text>
+          Peritos cadastrados pela Corregedoria-Geral do TJGO
+        </b-card-text>
         <b-link class="stretched-link" to="/navegacao/bancoperitos"></b-link>
       </b-card>
     </b-card-group>
 
-
-    <a href="/central-de-sistemas">Voltar</a>
+    <b-link class="pb-5" to="/">Voltar</b-link>
+<!--    <a href="/central-de-sistemas">Voltar</a>-->
   </div>
 </template>
 
@@ -102,11 +105,13 @@ export default {
     width: 160px;
   }
 }
+
 @media screen and (max-width: 768px) {
   .card-img {
     width: 100px;
   }
 }
+
 @media screen and (max-width: 575px) {
   .card-img {
     width: 200px;

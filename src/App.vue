@@ -80,13 +80,9 @@
       </div>
     </div>
     <div class="container">
-      <transition :name="transitionName">
-        <keep-alive>
           <router-view/>
-        </keep-alive>
-      </transition>
-
     </div>
+
   </div>
 </template>
 <script>
@@ -168,10 +164,13 @@ html, body {
 
 }
 
-@media screen
-and (min-device-width: 1200px)
-and (max-device-width: 1600px)
-and (-webkit-min-device-pixel-ratio: 1) {
+/*
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
   .sidebar {
     top: 0;
   }
@@ -179,9 +178,16 @@ and (-webkit-min-device-pixel-ratio: 1) {
   .sidebar:hover {
     overflow: auto;
   }
+
 }
 
-@media screen and (max-width: 1199px) {
+/*
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
   .sidebar {
     top: 0;
   }
@@ -189,24 +195,71 @@ and (-webkit-min-device-pixel-ratio: 1) {
   .sidebar:hover {
     overflow: auto;
   }
+
 }
 
-@media screen and (max-width: 1000px) {
+/*
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  .sidebar {
+    top: 0;
+  }
+
+  .sidebar:hover {
+    overflow: auto;
+  }
+
+}
+
+/*
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+  .sidebar {
+    top: 0;
+  }
+
+  .sidebar:hover {
+    overflow: auto;
+  }
+
+}
+
+/*
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
   .sidebar {
     display: none;
   }
+
 }
 
-@media screen and (max-width: 768px) {
-  .sidebar {
-    display: none;
-  }
-}
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
 
-@media screen and (max-width: 575px) {
+@media (min-width: 320px) and (max-width: 480px) {
+
   .sidebar {
-    display: none;
+    top: 0;
   }
+
+  .sidebar:hover {
+    overflow: auto;
+  }
+
 }
 
 </style>

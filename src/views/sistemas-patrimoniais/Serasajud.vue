@@ -4,7 +4,7 @@
       <div class="text-center pt-4">
         <img src="@/assets/serasajud.png" alt="img">
       </div>
-
+      <b-link class="pb-5" to="/sistemas-patrimoniais">Voltar</b-link>
       <div class="pt-5 text-center text-danger">
         <h4>- em implantação -</h4>
       </div>

@@ -61,9 +61,8 @@
           <p>PAD</p>
         </b-card-text>
       </b-card>
-
     </b-card-group>
-
+<p><a href="http://intranet/nova/">Voltar para a Intranet</a></p>
   </div>
 
 

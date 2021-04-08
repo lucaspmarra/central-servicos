@@ -4,7 +4,7 @@
       <div class="text-center pt-4">
         <img src="@/assets/pjecor.jpg" alt="img">
       </div>
-
+      <b-link class="pb-5 text-left" to="/sistemas-processuais">Voltar</b-link>
       <div class="pt-5 text-left">
         <h4>Para que serve:</h4>
         <p>O PJECOR é um sistema informatizado único para todas as corregedorias, que tem por objetivo unificar e

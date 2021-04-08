@@ -41,8 +41,8 @@
       </b-card>
 
     </b-card-group>
-
-    <a href="/central-de-sistemas">Voltar</a>
+    <b-link class="pb-5" to="/">Voltar</b-link>
+<!--    <a href="/central-de-sistemas">Voltar</a>-->
   </div>
 </template>
 

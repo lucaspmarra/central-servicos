@@ -11,8 +11,8 @@
         <!--        <b-button v-b-toggle.sidebar>Toggle Sidebar</b-button>-->
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">
-        <a href="https://www.tre-go.jus.br/">
-          <img class="ml-auto" src="http://www.tse.jus.br/temas/imagens/logos/tre-go.png" alt="logo tre">
+        <a href="http://intranet/nova/">
+          <img class="ml-auto" src="http://www.tse.jus.br/temas/imagens/logos/tre-go.png" alt="Voltar para a Intranet">
         </a>
       </b-navbar-nav>
 

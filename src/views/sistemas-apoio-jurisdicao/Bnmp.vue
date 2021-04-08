@@ -4,7 +4,7 @@
       <div class="text-center pt-4">
         <img src="@/assets/bnmp.jpg" alt="img">
       </div>
-
+      <b-link class="pb-5" to="/sistemas-apoio-jurisdicao">Voltar</b-link>
       <div class="pt-5">
         <h4>Para que serve:</h4>
         <p>Promove o controle na porta de entrada e de saída das pessoas privadas de liberdade por intermédio do

@@ -4,7 +4,7 @@
       <div class="text-center pt-4">
         <img src="@/assets/sei.png" alt="img">
       </div>
-
+      <b-link class="pb-5" to="/sistemas-processuais">Voltar</b-link>
       <div class="pt-5">
         <h4>Para que serve:</h4>
         <p>O Sistema Eletrônico de Informações (SEI) é um sistema de produção e gestão de documentos e processos

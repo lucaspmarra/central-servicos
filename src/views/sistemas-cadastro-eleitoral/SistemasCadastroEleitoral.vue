@@ -6,18 +6,27 @@
         <b-card>
           <img src="@/assets/png/smartphone.png" alt="Justifica" class="card-img">
           <h4 class="text-uppercase">Justifica</h4>
+          <b-card-text>
+            Sistema de Justificativas Eleitorais Eletrônicas
+          </b-card-text>
           <b-link class="stretched-link" to="/navegacao/justifica"></b-link>
         </b-card>
 
         <b-card>
           <img src="@/assets/png/report.png" alt="Infodip" class="card-img">
           <h4 class="text-uppercase">Infodip</h4>
+          <b-card-text>
+            Sistema de Comunicações Sobre Direitos Políticos
+          </b-card-text>
           <b-link class="stretched-link" to="/navegacao/infodip"></b-link>
         </b-card>
 
         <b-card>
           <img src="@/assets/png/web.png" alt="Siel" class="card-img">
           <h4 class="text-uppercase">Siel</h4>
+          <b-card-text>
+            Sistema de Informações Eleitorais
+          </b-card-text>
           <b-link class="stretched-link" to="/navegacao/siel"></b-link>
         </b-card>
 
@@ -28,7 +37,8 @@
 <!--        </b-card>-->
       </b-card-group>
     </div>
-    <a href="/central-de-sistemas">Voltar</a>
+    <b-link class="pb-5" to="/">Voltar</b-link>
+<!--    <a href="/central-de-sistemas">Voltar</a>-->
   </div>
 </template>
 
