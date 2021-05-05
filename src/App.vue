@@ -80,7 +80,7 @@
       </div>
     </div>
     <div class="container">
-          <router-view/>
+      <router-view/>
     </div>
 
   </div>
@@ -93,7 +93,6 @@ export default {
   components: {
     Navbar,
   },
-
 
 }
 </script>
@@ -122,6 +121,7 @@ html, body {
  */
 .nav-logo {
   width: 35px;
+
 }
 
 .sidebar {
@@ -148,6 +148,7 @@ html, body {
 
 .sidebar:hover a,
 .sidebar:focus a {
+
   font-size: 14px;
 }
 
@@ -159,9 +160,8 @@ html, body {
   z-index: 100; /* Behind the navbar */
   padding: 0 0 0 0; /* Height of navbar */
   box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
-  width: 200px;
+  width: 180px;
   background-color: #FFFFFF;
-
 }
 
 /*
