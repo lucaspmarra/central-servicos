@@ -41,8 +41,7 @@
 
       <div class="pt-3">
         <h4>Normativos:</h4>
-        <p><a>Convênio celebrado entre o Conselho Nacional de Justiça (CNJ) e a Secretaria da Receita Federal
-          (RFB)</a></p>
+        <p><a href="https://www.cnj.jus.br/transparencia-cnj/acordos-termos-e-convenios/convenios/convenio-n-0012007/">Convênio nº 001/2007, celebrado entre o Conselho Nacional de Justiça (CNJ) e a Secretaria da Receita Federal (RFB)</a></p>
         <p><a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/portaria-da-presidencia/portaria-da-presidencia-202000066.htm">Portaria nº 066/2020 – PRES do TRE-GO</a></p>
       </div>
 

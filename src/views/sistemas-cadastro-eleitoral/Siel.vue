@@ -24,7 +24,7 @@
       <div class="pt-3">
         <h4>Manual do Sistema:</h4>
         <p><a
-            href="https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/arquivos/manual-usuario-externo-siel-versao-13/rybena_pdf?file=https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/arquivos/manual-usuario-externo-siel-versao-13/at_download/file">https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/arquivos/manual-usuario-externo-siel-versao-13/rybena_pdf?file=https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/arquivos/manual-usuario-externo-siel-versao-13/at_download/file</a>
+            href="https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-0-14/rybena_pdf?file=https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-0-14/at_download/file">https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-0-14/rybena_pdf?file=https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-0-14/at_download/file</a>
         </p>
       </div>
 
@@ -47,7 +47,7 @@
 
       <div class="pt-3">
         <h4>Mais informações:</h4>
-        <p><a href="https://www.tre-go.jus.br/eleitor/siel-1">https://www.tre-go.jus.br/eleitor/siel-1</a>
+        <p><a href=" https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/sistema-de-informacoes-eleitorais-siel "> https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/sistema-de-informacoes-eleitorais-siel </a>
         </p>
 
       </div>
