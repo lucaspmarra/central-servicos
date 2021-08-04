@@ -39,7 +39,7 @@
       <div class="pt-3">
         <h4>Mais informações:</h4>
         <p><a href="https://www.cnj.jus.br/sistemas/sisbajud/">https://www.cnj.jus.br/sistemas/sisbajud/</a></p>
-
+        <p><a href="https://www.bcb.gov.br/acessoinformacao/bacenjud ">https://www.bcb.gov.br/acessoinformacao/bacenjud </a></p>
       </div>
 
       <div class="pt-3">
@@ -50,6 +50,8 @@
         <p><a
             href="https://www.cnj.jus.br/transparencia-cnj/acordos-termos-e-convenios/termo-de-cooperacao-tecnica-n-041-2019/">Acordo
           de Cooperação Técnica 041/2019</a></p>
+        <p><a href="https://www.bcb.gov.br/content/acessoinformacao/historico_backup/bacenjud/regulamentos/Regulamento_Bacenjud_vigente.pdf">Regulamento Bacenjud</a></p>
+        <p><a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/atos-conjuntos/portaria-conjunta-202100002.htm">Portaria Conjunta PRES-VPCRE nº 02/2021</a></p>
       </div>
 
       <div class="pt-3">

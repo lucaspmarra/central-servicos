@@ -18,6 +18,20 @@
       </div>
 
       <div class="pt-3">
+        <h4>Manual do Sistema:</h4>
+        <p><a href="https://adm.justicaeleitoral.jus.br/tre-go/o-tre/arquivos-gerais/1-manual-sinic-act-novembro-2018/rybena_pdf?file=https://adm.justicaeleitoral.jus.br/tre-go/o-tre/arquivos-gerais/1-manual-sinic-act-novembro-2018/at_download/file">Clique aqui para acessar o Manual</a>
+        </p>
+      </div>
+
+      <div class="pt-3">
+        <h4>Cursos e treinamentos:</h4>
+        <p>Disponível no Portal de Educação a Distância da Polícia Federal.  Para acessar ao curso, cada interessado deve ingressar no sítio da
+           <a href="https://ead.dpf.gov.br/index.php?p=anpcidada">ANP Cidadã - Público</a> e cadastrar-se na plataforma, inserindo alguns dados solicitados</p>
+        <p>Após o cadastro, o servidor deverá solicitar o código para se inscrever no curso SINICx - 2021.x1 enviando um e-mail
+          <a href="mailto:">agvpcre-lista@tre-go.jus.br</a>.</p>
+      </div>
+
+      <div class="pt-3">
         <h4>Link de acesso:</h4>
         <p><a href="#">A ser definido</a>
         </p>
@@ -30,13 +44,14 @@
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Via SEI, preencher o "Formulário - Acesso a Sistema - Corregedoria" e enviar para a Assessoria de
-          Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria</p>
+        <p>Preencher o <a href="https://adm.justicaeleitoral.jus.br/tre-go/o-tre/arquivos-gerais/2-requerimento/at_download/file">Requerimento de Cadastramento de Usuário SINIC/SINCAC</a>, assinar, colher a assinatura do superior imediato e enviá-lo para o email
+          <a href="mailto:nid.drex.srgo@pf.gov.br">nid.drex.srgo@pf.gov.br</a>, conforme <a href="https://adm.justicaeleitoral.jus.br/tre-go/o-tre/arquivos-gerais/3-despacho-pf-orientacoes/at_download/file">orientação da Polícia Federal </a>.</p>
+        <p>Após receber a senha provisória de acesso, abrir chamado junto à SEGEC para instalação do aplicativo utilizado para conexão VPN com a PF.</p>
       </div>
 
       <div class="pt-3">
         <h4>Mais informações:</h4>
-        <p><a href="#">A serem definidas</a>
+        <p><a href="http://wikicre.tre-go.jus.br/tiki-index.php?page=FAQ-SINIC">http://wikicre.tre-go.jus.br/tiki-index.php?page=FAQ-SINIC</a>
         </p>
 
       </div>
@@ -60,8 +75,14 @@
 </template>
 
 <script>
+
 export default {
-  name: "Sinic"
+  name: "Sinic",
+  data() {
+    return {
+    }
+  },
+
 }
 </script>
 

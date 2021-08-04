@@ -25,11 +25,19 @@ import Pjecor from "@/views/sistemas-processuais/Pjecor";
 import Pad from "@/views/sistemas-processuais/Pad";
 import Sei from "@/views/sistemas-processuais/Sei";
 import SistemasProcessuais from "@/views/sistemas-processuais/SistemasProcessuais";
-
+/*
+* Importar todas as páginas que são criadas no router
+* páginas novas são criadas dentro da pasta view e podem ser chamadas com @ que vai para a raiz do projeto
+*/
 
 Vue.use(VueRouter)
 
 const routes = [
+    /*
+    * path = endereco que vai aparecer na barra, central-de-sistemas/sistemas-patrimoniais
+    * name = nome da pagina
+    * component = pagina vue que foi importada acima
+    */
     {
         path: '/',
         name: 'Home',
@@ -54,30 +62,35 @@ const routes = [
         name: 'Sistemas Processuais',
         component: SistemasProcessuais
     },
+    /*
+    * navegacao serve pra mudar dinamicamente cada pagina que for selecionada, tem que ser incluida nela cada pagina filha
+    * nao se usa / pra inserir a navegacao das paginas filhas
+    * se colocar / nao vai funcionar
+    * por que? nao sei
+    */
     {
         path: '/navegacao',
         name: 'Navegação',
         component: Navegacao,
         children: [{
-            // path: '',
             path: 'sisbajud',
             name: 'Sisbajud',
             component: Sisbajud
         },
             {
-                // path: '',
+
                 path: 'infojud',
                 name: 'Infojud',
                 component: Infojud
             },
             {
-                // path: '',
+
                 path: 'renajud',
                 name: 'Renajud',
                 component: Renajud
             },
             {
-                // path: '',
+
                 path: 'serasajud',
                 name: 'Serasajud',
                 component: Serasajud

@@ -22,7 +22,8 @@
 
       <div class="pt-3">
         <h4>Link de acesso:</h4>
-        <p><a href="https://apps.tre-go.jus.br/infodipweb/home/ ">https://apps.tre-go.jus.br/infodipweb/home/ </a>
+        <p>Para usuário da Justiça Eleitoral: <a href="https://infodip.tse.jus.br/infodip/home/">https://infodip.tse.jus.br/infodip/home/</a></p>
+        <p>Para Órgão Comunicante: <a href="https://infodipweb.tse.jus.br/infodipweb">https://infodipweb.tse.jus.br/infodipweb</a>
         </p>
 
       </div>

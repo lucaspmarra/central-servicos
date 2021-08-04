@@ -79,7 +79,9 @@
         </b-link>
       </div>
     </div>
+
     <div class="container">
+
       <router-view/>
     </div>
 
@@ -254,6 +256,7 @@ html, body {
 
   .sidebar {
     top: 0;
+    display: none;
   }
 
   .sidebar:hover {

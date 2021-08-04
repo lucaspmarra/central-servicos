@@ -47,7 +47,7 @@
 
       <div class="pt-3">
         <h4>Mais informações:</h4>
-        <p><a href=" https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/sistema-de-informacoes-eleitorais-siel "> https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/sistema-de-informacoes-eleitorais-siel </a>
+        <p><a href="https://www.tre-go.jus.br/eleitor/siel-1">https://www.tre-go.jus.br/eleitor/siel-1</a>
         </p>
 
       </div>

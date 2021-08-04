@@ -5,14 +5,16 @@
         <div>
           <b-navbar-toggle target="sidebar" class="mr-1 toggle-button"></b-navbar-toggle>
           <b-link to="/">
-            <img src="https://i.imgur.com/CbTBSvh.png" alt="" style="width: 120px; margin-left: 65px">
+            <img class="corregedoria-logo" src="https://i.imgur.com/CbTBSvh.png" alt="logo corregedoria"
+            >
           </b-link>
         </div>
         <!--        <b-button v-b-toggle.sidebar>Toggle Sidebar</b-button>-->
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">
         <a href="http://intranet/nova/">
-          <img class="ml-auto" src="http://www.tse.jus.br/temas/imagens/logos/tre-go.png" alt="Voltar para a Intranet">
+          <img class="ml-auto tre-logo" src="http://www.tse.jus.br/temas/imagens/logos/tre-go.png"
+               alt="Voltar para a Intranet">
         </a>
       </b-navbar-nav>
 
@@ -52,7 +54,8 @@
               SEEU
             </b-link>
             <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/sicel"><img
-                src="@/assets/png/police-station.png" alt="Sistema de Inspeções e Correições Eleitorais" class="nav-logo">
+                src="@/assets/png/police-station.png" alt="Sistema de Inspeções e Correições Eleitorais"
+                class="nav-logo">
               SICEL
             </b-link>
             <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/sinic"><img
@@ -85,7 +88,8 @@
               PJE 2G
             </b-link>
             <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/pjecor"><img
-                src="@/assets/png/certificate.png" alt="Processo Judicial Eletrônico das Corregedorias" class="nav-logo">
+                src="@/assets/png/certificate.png" alt="Processo Judicial Eletrônico das Corregedorias"
+                class="nav-logo">
               PJECOR
             </b-link>
             <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/sei"><img
@@ -139,5 +143,27 @@ export default {
 .nav-logo {
   width: 40px;
   /*display: inline;*/
+}
+
+.corregedoria-logo {
+  width: 120px;
+  margin-left: 65px
+}
+
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .corregedoria-logo {
+    width: 100px;
+    margin-left: 0;
+  }
+
+  .tre-logo {
+    width: 100px;
+  }
+
 }
 </style>

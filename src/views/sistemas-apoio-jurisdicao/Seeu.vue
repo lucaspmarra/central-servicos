@@ -42,6 +42,7 @@
         <h4>Mais informações:</h4>
         <p><a href="https://www.cnj.jus.br/sistema-carcerario/sistema-eletronico-de-execucao-unificado-seeu/">https://www.cnj.jus.br/sistema-carcerario/sistema-eletronico-de-execucao-unificado-seeu/</a>
         </p>
+        <p><a href="http://wikicre.tre-go.jus.br/tiki-index.php?page=SEEU---Perguntas-frequentes-e-grava%C3%A7%C3%B5es-dos-treinamentos  ">http://wikicre.tre-go.jus.br/tiki-index.php?page=SEEU---Perguntas-frequentes-e-grava%C3%A7%C3%B5es-dos-treinamentos  </a></p>
 
       </div>
 

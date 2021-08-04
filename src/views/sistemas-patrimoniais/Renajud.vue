@@ -46,6 +46,7 @@
         <p><a href="http://intranet.tre-go.gov.br/sistemas/publicacoes/noticia_visualizar.php?id=191220191641232147 ">Termo
           de Cooperação Técnica</a> celebrado entre o Conselho Nacional de Justiça, o Ministério das
           Cidades e o Ministério da Justiça.</p>
+        <p><a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/atos-conjuntos/portaria-conjunta-202100002.htm">Portaria Conjunta PRES-VPCRE nº 02/2021</a></p>
       </div>
 
       <div class="pt-3">

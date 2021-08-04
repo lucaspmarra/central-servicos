@@ -5,9 +5,9 @@
         <img src="@/assets/serasajud.png" alt="img">
       </div>
       <b-link class="pb-5" to="/sistemas-patrimoniais">Voltar</b-link>
-      <div class="pt-5 text-center text-danger">
-        <h4>- em implantação -</h4>
-      </div>
+<!--      <div class="pt-5 text-center text-danger">-->
+<!--        <h4>- em implantação -</h4>-->
+<!--      </div>-->
 
       <div class="pt-3">
         <h4>Para que serve:</h4>
@@ -36,8 +36,7 @@
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Via SEI, preencher o "Formulário - Acesso a Sistema - Corregedoria" e enviar para a Assessoria de
-          Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria</p>
+        <p>Solicitar diretamente à SERASA EXPERIAN, na forma descrita no item 1.2 do <a href="https://www.serasaexperian.com.br/images-cms/wp-content/uploads/2021/01/MANUAL-VERSAO-6-PDF.pdf">Manual do Sistema</a>.</p>
       </div>
 
       <div class="pt-3">
@@ -50,6 +49,7 @@
         <h4>Normativos:</h4>
         <a href="http://intranet.tre-go.gov.br/sistemas/publicacoes/downloads/201909131342306671.pdf">Termo de
           Cooperação Técnica nº 15/2019</a>
+        <p><a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/atos-conjuntos/portaria-conjunta-202100002.htm">Portaria Conjunta PRES-VPCRE nº 02/2021</a></p>
       </div>
 
       <div class="pt-3">
