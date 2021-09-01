@@ -21,7 +21,7 @@
 
       <div class="pt-3">
         <h4>Link de acesso:</h4>
-        <p><a href="https://pje.tre-go.jus.br:8443/pje-web/login.seam?loginComCertificado=false&cid=95141">https://pje.tre-go.jus.br:8443/pje-web/login.seam?loginComCertificado=false&cid=95141</a>
+        <p><a href="https://pje.tre-go.jus.br/pje/">https://pje.tre-go.jus.br/pje/</a>
         </p>
 
       </div>

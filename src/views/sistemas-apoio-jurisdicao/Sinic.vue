@@ -19,7 +19,7 @@
 
       <div class="pt-3">
         <h4>Manual do Sistema:</h4>
-        <p><a href="https://adm.justicaeleitoral.jus.br/tre-go/o-tre/arquivos-gerais/1-manual-sinic-act-novembro-2018/rybena_pdf?file=https://adm.justicaeleitoral.jus.br/tre-go/o-tre/arquivos-gerais/1-manual-sinic-act-novembro-2018/at_download/file">Clique aqui para acessar o Manual</a>
+        <p><a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/1-manual-sinic-act-novembro-2018/at_download/file">Clique aqui para acessar o Manual</a>
         </p>
       </div>
 
@@ -44,8 +44,8 @@
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="https://adm.justicaeleitoral.jus.br/tre-go/o-tre/arquivos-gerais/2-requerimento/at_download/file">Requerimento de Cadastramento de Usuário SINIC/SINCAC</a>, assinar, colher a assinatura do superior imediato e enviá-lo para o email
-          <a href="mailto:nid.drex.srgo@pf.gov.br">nid.drex.srgo@pf.gov.br</a>, conforme <a href="https://adm.justicaeleitoral.jus.br/tre-go/o-tre/arquivos-gerais/3-despacho-pf-orientacoes/at_download/file">orientação da Polícia Federal </a>.</p>
+        <p>Preencher o <a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/2-requerimento/at_download/file">Requerimento de Cadastramento de Usuário SINIC/SINCAC</a>, assinar, colher a assinatura do superior imediato e enviá-lo para o email
+          <a href="mailto:nid.drex.srgo@pf.gov.br">nid.drex.srgo@pf.gov.br</a>, conforme <a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/3-despacho-pf-orientacoes/at_download/file">orientação da Polícia Federal </a>.</p>
         <p>Após receber a senha provisória de acesso, abrir chamado junto à SEGEC para instalação do aplicativo utilizado para conexão VPN com a PF.</p>
       </div>
 

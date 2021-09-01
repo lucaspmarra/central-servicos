@@ -1,11 +1,11 @@
 <template>
-  <div class="pt-5" id="content">
+  <div id="content" class="pt-5">
     <div class="text-center pb-4"><h2>SISTEMAS PROCESSUAIS</h2></div>
 
     <div class="pb-2">
-      <b-card-group deck class="text-center">
+      <b-card-group class="text-center" deck>
         <b-card>
-          <img src="@/assets/png/pje.png" alt="PJE1G" class="card-img">
+          <img alt="PJE1G" class="card-img" src="@/assets/png/pje.png">
           <h4>PJe 1º Grau</h4>
           <b-card-text>
             Processo Judicial Eletrônico - Zonas Eleitorais
@@ -14,7 +14,7 @@
         </b-card>
 
         <b-card>
-          <img src="@/assets/png/pje.png" alt="PJE1G" class="card-img">
+          <img alt="PJE1G" class="card-img" src="@/assets/png/pje.png">
           <h4>PJe 2º Grau</h4>
           <b-card-text>
             Processo Judicial Eletrônico - Tribunal
@@ -23,7 +23,7 @@
         </b-card>
 
         <b-card>
-          <img src="@/assets/png/certificate.png" alt="Processo Judicial Eletrônico das Corregedorias" class="card-img">
+          <img alt="Processo Judicial Eletrônico das Corregedorias" class="card-img" src="@/assets/png/certificate.png">
           <h4>PJECor</h4>
           <b-card-text>
             Processo Judicial Eletrônico das Corregedorias
@@ -32,7 +32,7 @@
         </b-card>
 
         <b-card>
-          <img src="@/assets/png/sei.png" alt="Processo Judicial Eletrônico das Corregedorias" class="card-img pt-2">
+          <img alt="Processo Judicial Eletrônico das Corregedorias" class="card-img pt-2" src="@/assets/png/sei.png">
           <h4 class="pt-5">SEI!</h4>
           <b-card-text>
             Sistema Eletrônico de Informações
@@ -41,7 +41,7 @@
         </b-card>
 
         <b-card>
-          <img src="@/assets/png/timeline.png" alt="Processo Judicial Eletrônico das Corregedorias" class="card-img">
+          <img alt="Processo Judicial Eletrônico das Corregedorias" class="card-img" src="@/assets/png/timeline.png">
           <h4>PAD</h4>
           <b-card-text>
             Processo Administrativo Digital

@@ -14,7 +14,7 @@
 
       <div class="pt-3 text-left">
         <h4>Link de acesso:</h4>
-        <p><a href="https://corregedoria.pje.jus.br/login.seam">https://corregedoria.pje.jus.br/login.seam</a>
+        <p><a href="https://corregedoria.pje.jus.br/login.seam" target="_blank">https://corregedoria.pje.jus.br/login.seam</a>
         </p>
 
       </div>
@@ -32,15 +32,17 @@
 
       <div class="pt-3 text-left">
         <h4>Mais informações:</h4>
-        <p><a href="https://www.cnj.jus.br/corregedoriacnj/pjecor/">https://www.cnj.jus.br/corregedoriacnj/pjecor/</a>
+        <p><a href="https://www.cnj.jus.br/corregedoriacnj/pjecor/" target="_blank">https://www.cnj.jus.br/corregedoriacnj/pjecor/</a>
         </p>
 
       </div>
 
       <div class="pt-3 text-left">
         <h4>Normativos:</h4>
-        <p><a href="https://atos.cnj.jus.br/atos/detalhar/3336">Provimento Corregedoria Nacional de Justiça
+        <p><a href="https://atos.cnj.jus.br/atos/detalhar/3336" target="_blank">Provimento Corregedoria Nacional de Justiça
           nº102/2020</a></p>
+        <p><a href="https://www.tse.jus.br/legislacao/compilada/prv-cge/2021/provimento-no-5-cge-de-29-de-abril-de-2021" target="_blank">Provimento nº 5/2021 - CGE</a></p>
+        <p><a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/sei-tre-go-0080744-provimento/rybena_pdf?file=https://www.tre-go.jus.br/o-tre/arquivos-gerais/sei-tre-go-0080744-provimento/at_download/file" target="_blank">Provimento nº 3/2021 - VPCRE/GO</a></p>
       </div>
 
       <div class="pt-3 text-left">

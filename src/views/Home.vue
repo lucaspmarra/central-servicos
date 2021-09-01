@@ -1,9 +1,9 @@
 <template>
-  <div class="pt-5" id="content">
+  <div id="content" class="pt-5">
     <div class="text-center pb-4 text-uppercase"><h2>Central de Sistemas</h2></div>
-    <b-card-group deck class="text-center">
+    <b-card-group class="text-center" deck>
       <b-card>
-        <img class="card-img" src="@/assets/png/001-analytics.png" alt="Sistemas Patrimoniais">
+        <img alt="Sistemas Patrimoniais" class="card-img" src="@/assets/png/001-analytics.png">
         <h4 class="text-center pt-1">Sistemas Patrimoniais</h4>
         <b-link class="stretched-link" to="/sistemas-patrimoniais"></b-link>
         <!--        <a href="/sistemas-patrimoniais" class="stretched-link"></a>-->
@@ -19,7 +19,7 @@
       <!--      <b-card title="Sistemas de Apoio à Jurisdição" img-src="https://picsum.photos/300/300/" img-alt="Image"-->
       <!--              img-top>-->
       <b-card>
-        <img class="card-img" src="@/assets/png/012-connection.png" alt="Sistemas de Apoio à Jurisdição">
+        <img alt="Sistemas de Apoio à Jurisdição" class="card-img" src="@/assets/png/012-connection.png">
         <h4>Sistemas de Apoio à Jurisdição</h4>
         <b-link class="stretched-link" to="/sistemas-apoio-jurisdicao"></b-link>
         <br>
@@ -35,7 +35,7 @@
       </b-card>
 
       <b-card>
-        <img class="card-img" src="@/assets/png/029-server.png" alt="Sistemas Relacionados ao Cadastro Eleitoral">
+        <img alt="Sistemas Relacionados ao Cadastro Eleitoral" class="card-img" src="@/assets/png/029-server.png">
         <h4>Sistemas Relacionados ao Cadastro Eleitoral</h4>
         <b-link class="stretched-link" to="/sistemas-cadastro-eleitoral"></b-link>
         <hr>
@@ -48,7 +48,7 @@
       </b-card>
 
       <b-card>
-        <img class="card-img" src="@/assets/png/024-document.png" alt="Sistemas Processuais">
+        <img alt="Sistemas Processuais" class="card-img" src="@/assets/png/024-document.png">
         <h4>Sistemas Processuais</h4>
         <br>
         <b-link class="stretched-link" to="/sistemas-processuais"></b-link>
@@ -62,15 +62,11 @@
         </b-card-text>
       </b-card>
     </b-card-group>
-<p><a href="http://intranet/nova/">Voltar para a Intranet</a></p>
+    <!--<p><a href="http://intranet/nova/">Voltar para a Intranet</a></p>-->
   </div>
-
-
 </template>
 
 <script>
-
-
 export default {
   name: 'Home',
   components: {}
@@ -79,7 +75,6 @@ export default {
 <style>
 #content {
   background-color: #F1F4F6;
-
 }
 
 ul {
@@ -129,7 +124,6 @@ ul {
     width: 180px;
   }
 }
-
 
 
 /* Icons by Icongeek26
