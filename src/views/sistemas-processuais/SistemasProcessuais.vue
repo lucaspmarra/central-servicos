@@ -1,6 +1,8 @@
 <template>
   <div id="content" class="pt-5">
-    <div class="text-center pb-4"><h2>SISTEMAS PROCESSUAIS</h2></div>
+    <div class="text-center pb-4">
+      <h2>SISTEMAS PROCESSUAIS</h2>
+    </div>
 
     <div class="pb-2">
       <b-card-group class="text-center" deck>

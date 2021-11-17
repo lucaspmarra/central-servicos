@@ -2,7 +2,7 @@
   <div>
     <section class="pb-5">
       <div class="text-center pt-4">
-        <img src="@/assets/siel.jpg" alt="img">
+        <img alt="img" src="@/assets/siel.jpg">
       </div>
       <b-link class="pb-5" to="/sistemas-cadastro-eleitoral">Voltar</b-link>
       <div class="pt-5">
@@ -13,18 +13,23 @@
           Superior Eleitoral.</p>
 
         <p class="pt-2"><strong>Aviso Importante!</strong></p>
-        <p>No momento estão sendo realizados cadastros apenas para as autoridades judiciárias. O acesso ao SIEL para
-          representantes do Ministério Público e autoridades policiais autorizadas será implementado em breve, a
-          partir
-          da disponibilização da segunda versão do sistema.</p>
-        <p>Até a implementação dessa versão do sistema os pedidos deverão ser dirigidos, por ofício, ao endereço de
-          correio eletrônico da Zona Eleitoral ao qual o juízo solicitante está vinculado</p>
+        <p>1. Em cumprimento à Res.-TSE nº 21.538/2003 e à Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais),
+          o requerimento de acesso ao SIEL deve ser realizado exclusivamente pela Autoridade (Juiz ou Juíza), denominada
+          Gestor (a);</p>
+        <p> 2. A criação do perfil Gestor(a) para a autoridade judiciária possibilitará que esta realize o cadastramento
+          de até 3 usuários operadores do órgão (servidor ou servidora);</p>
+        <p>4. O formulário requer o preenchimento da unidade específica de atuação da autoridade e de e-mail individual,
+          de natureza funcional;</p>
+        <p>5. A franquia solicitada no formulário de acesso refere-se à estimativa de consumo dos serviços que a
+          autoridade pretende ver implementada. Neste sentido, é importante que o gestor ou a gestora faça um
+          levantamento prévio da média de consultas ao SIEL necessárias, por mês, em sua unidade.</p>
 
       </div>
       <div class="pt-3">
         <h4>Manual do Sistema:</h4>
-        <p><a
-            href="https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-0-14/rybena_pdf?file=https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-0-14/at_download/file">https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-0-14/rybena_pdf?file=https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-0-14/at_download/file</a>
+        <p><a target="_blank  "
+            href="https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-16-2/rybena_pdf?file=https://www.tse.jus.br/o-tse/corregedoria-geral-eleitoral/sistemas-e-servicos-1/arquivos/manual-usuario-externo-siel-versao-16-2/at_download/file">Clique
+          aqui para acessar</a>
         </p>
       </div>
 
@@ -42,7 +47,7 @@
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p><a href="https://solicita-acesso.tse.jus.br/#/public/index/index">Solicite aqui seu acesso.</a></p>
+        <p><a href="https://siel.tse.jus.br/habilitacao">Solicite aqui seu acesso.</a></p>
       </div>
 
       <div class="pt-3">

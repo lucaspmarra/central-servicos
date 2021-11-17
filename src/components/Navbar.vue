@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div >
     <b-navbar class="shadow" toggleable="sm" type="light">
       <b-navbar-nav>
         <div>

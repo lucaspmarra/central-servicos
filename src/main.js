@@ -2,7 +2,8 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import {BootstrapVue, IconsPlugin} from 'bootstrap-vue'
-import VueAnalytics from 'vue-analytics';
+import VueGtag from "vue-gtag";
+
 /*
 Import do Bootstrap css
 Pode usar Bootstrap <https://getbootstrap.com/> ou VueBootstrap <https://bootstrap-vue.org/>
@@ -10,11 +11,9 @@ Pode usar Bootstrap <https://getbootstrap.com/> ou VueBootstrap <https://bootstr
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
-// Configuration VueAnalytics
-Vue.use(VueAnalytics, {
-    id: 'G-JDH7J2XZ7F',
-    router
-});
+Vue.use(VueGtag, {
+    config: {id: "G-NCF8R8JEN0"}
+}, router);
 
 // Make BootstrapVue available throughout your project
 Vue.use(BootstrapVue)
