@@ -113,6 +113,12 @@ html, body {
 #content-main {
   background-color: #F1F4F6;
 }
+.container-content {
+  background-color: white;
+  padding: 10px 10px 20px 20px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
 
 #nav {
   /*padding: 30px;*/

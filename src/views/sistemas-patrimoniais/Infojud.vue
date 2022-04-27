@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container-content">
     <section class="pb-5">
       <div class="text-center pt-4">
         <img src="@/assets/infojud.png" alt="INFOJUD">
