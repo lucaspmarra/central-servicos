@@ -33,7 +33,20 @@
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
         <p>Preencher o formulário "Formulário - Acesso a Sistema - Corregedoria" e enviar, via Processo SEI, à
-          Assessoria de Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria</p>
+          Assessoria de Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria.</p>
+        <p>Passo a passo:</p>
+        <ul>
+          <li>1 - acesse o SEI e clique em "Iniciar processo";</li>
+          <li>2 - ao lado do campo "Escolha o Tipo de Processo", clique no "+" e pesquise por "SISTEMAS VPCRE";</li>
+          <li>3 - preencher o campo "Especificação" com os nomes dos sistemas;</li>
+          <li>4 - selecione a opção "Publico" e clique em "Salvar";</li>
+          <li>5 - na próxima tela, clique na menu "Incluir Documento";</li>
+          <li>6 - ao lado do campo "Escolha o Tipo de Documento", clique no "+" e pesquise por "Formulário - Acesso a
+            sistema - Corregedoria";
+          </li>
+          <li>7 - preencha e assine o formulário;</li>
+          <li>8 - envie o processo para AGVPCRE;</li>
+        </ul>
       </div>
 
       <div class="pt-3">

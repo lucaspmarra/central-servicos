@@ -30,7 +30,24 @@
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Preencher o formulário "Formulário - Acesso a Sistema - Corregedoria" e enviar, via Processo SEI, à Assessoria de Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria</p>
+        <p><strong>Importante:</strong> A solicitação de acesso ao INFOJUD é exclusiva para o magistrado. A solicitação
+          para servidores deverá ser submetida ao respectivo Juiz Eleitoral e por ele autorizado no próprio sistema,
+          conforme art. 3°, § 2° da <a href="https://apps.tre-go.jus.br/internet/legislacao-compilada/portaria-da-presidencia/portaria-da-presidencia-202000066.htm">Portaria PRES n° 66/2020.</a></p>
+        <p>Preencher o formulário "Formulário - Acesso a Sistema - Corregedoria" e enviar, via Processo SEI, à
+          Assessoria de Planejamento, Governança e Gestão da Vice-Presidência e Corregedoria.</p>
+        <p>Passo a passo:</p>
+        <ul>
+          <li>1 - acesse o SEI e clique em "Iniciar processo";</li>
+          <li>2 - ao lado do campo "Escolha o Tipo de Processo", clique no "+" e pesquise por "SISTEMAS VPCRE";</li>
+          <li>3 - preencher o campo "Especificação" com os nomes dos sistemas;</li>
+          <li>4 - selecione a opção "Publico" e clique em "Salvar";</li>
+          <li>5 - na próxima tela, clique na menu "Incluir Documento";</li>
+          <li>6 - ao lado do campo "Escolha o Tipo de Documento", clique no "+" e pesquise por "Formulário - Acesso a
+            sistema - Corregedoria";
+          </li>
+          <li>7 - preencha e assine o formulário;</li>
+          <li>8 - envie o processo para AGVPCRE;</li>
+        </ul>
       </div>
 
       <div class="pt-3">

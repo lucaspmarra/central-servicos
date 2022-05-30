@@ -58,7 +58,7 @@
 
       <div class="pt-3">
         <h4>Normativos:</h4>
-        <p><a href="#">Acordo de Cooperação </a>Técnica entre o TRE-GO e a Polícia Federal em 27/07/2020.</p>
+        <p><a href="Acordo-de-Cooperacao-Tecnica.pdf">Acordo de Cooperação </a>Técnica entre o TRE-GO e a Polícia Federal em 27/07/2020.</p>
         <p><a href="http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del3689.htm#art809">Código de Processo Penal, art.
           809, §3º</a></p>
       </div>

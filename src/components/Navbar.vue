@@ -45,6 +45,10 @@
                 alt="Banco Nacional de Monitoramento de Prisões" class="nav-logo" src="@/assets/png/arrest.png">
               BNMP
             </b-link>
+            <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/cnib"><img
+                alt="Central Nacional de Indisponibilidade de Bens" class="nav-logo" src="@/assets/png/casa.png">
+              CNIB
+            </b-link>
             <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/bancoperitos"><img
                 alt="Banco de Peritos" class="nav-logo" src="@/assets/png/riot-police.png">
               BANCO PERITOS
@@ -144,7 +148,9 @@ export default {
   margin-right: 10px;
   /*display: inline;*/
 }
-
+.nav-logo-cnib {
+  width: 300px;
+}
 .corregedoria-logo {
   width: 120px;
   margin-left: 65px

@@ -1,10 +1,10 @@
 <template>
-  <div class="pt-5" id="content">
+  <div id="content" class="pt-5">
     <div class="text-center pb-4"><h2>SISTEMAS PATRIMONIAIS</h2></div>
-    <b-card-group deck class="text-center">
+    <b-card-group class="text-center" deck>
 
       <b-card>
-        <img src="@/assets/png/113-tie.png" alt="Sistema de Busca de Ativos do Poder Judiciário" class="card-img">
+        <img alt="Sistema de Busca de Ativos do Poder Judiciário" class="card-img" src="@/assets/png/113-tie.png">
         <h4>SISBAJUD</h4>
         <b-card-text>
           Sistema de Busca de Ativos do Poder Judiciário
@@ -14,7 +14,7 @@
       </b-card>
 
       <b-card>
-        <img src="@/assets/png/111-goal.png" alt="Sistema de Informações ao Judiciário" class="card-img">
+        <img alt="Sistema de Informações ao Judiciário" class="card-img" src="@/assets/png/111-goal.png">
         <h4>INFOJUD</h4>
         <b-card-text>
           Sistema de Informações ao Judiciário
@@ -23,7 +23,8 @@
       </b-card>
 
       <b-card>
-        <img src="@/assets/png/car.png" alt="Sistema de Restrições Judiciais sobre Veículos Automotores" class="card-img">
+        <img alt="Sistema de Restrições Judiciais sobre Veículos Automotores" class="card-img"
+             src="@/assets/png/car.png">
         <h4>RENAJUD</h4>
         <b-card-text>
           Sistema de Restrições Judiciais sobre Veículos Automotores
@@ -32,7 +33,7 @@
       </b-card>
 
       <b-card>
-        <img src="@/assets/png/funding.png" alt="SERASAJUD" class="card-img">
+        <img alt="SERASAJUD" class="card-img" src="@/assets/png/funding.png">
         <h4>SERASAJUD</h4>
         <b-card-text>
           Sistema de Envio de Ordens Judiciais à Serasa Experian
@@ -41,8 +42,18 @@
       </b-card>
 
     </b-card-group>
+    <b-card-group class="text-center cnib-card" deck>
+      <b-card>
+        <img alt="CNIB" class="card-img cnib-img" src="@/assets/png/casa.png">
+        <h4>CNIB</h4>
+        <b-card-text>
+          Central Nacional de Indisponibilidade de Bens
+        </b-card-text>
+        <b-link class="stretched-link" to="/navegacao/cnib"></b-link>
+      </b-card>
+    </b-card-group>
     <b-link class="pb-5" to="/">Voltar</b-link>
-<!--    <a href="/central-de-sistemas">Voltar</a>-->
+    <!--    <a href="/central-de-sistemas">Voltar</a>-->
   </div>
 </template>
 
@@ -65,6 +76,10 @@ export default {
   box-shadow: 0 24px 36px rgba(0, 0, 0, 0.11),
   0 24px 46px var(--box-shadow-color);
 }
+.cnib-card{
+  width: 285px;
+  padding-top: 10px;
+}
 
 .card-img {
   width: 200px;
@@ -75,11 +90,16 @@ export default {
   .card-img {
     width: 100px;
   }
+
 }
 
 @media screen and (max-width: 768px) {
   .card-img {
     width: 70px;
+  }
+  .cnib-card{
+    width: auto;
+    padding-top: 10px;
   }
 }
 
@@ -87,5 +107,6 @@ export default {
   .card-img {
     width: 200px;
   }
+
 }
 </style>

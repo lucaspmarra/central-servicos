@@ -25,6 +25,7 @@ import Pjecor from "@/views/sistemas-processuais/Pjecor";
 import Pad from "@/views/sistemas-processuais/Pad";
 import Sei from "@/views/sistemas-processuais/Sei";
 import SistemasProcessuais from "@/views/sistemas-processuais/SistemasProcessuais";
+import Cnib from "@/views/sistemas-patrimoniais/Cnib";
 /*
 * Importar todas as páginas que são criadas no router
 * páginas novas são criadas dentro da pasta view e podem ser chamadas com @ que vai para a raiz do projeto
@@ -160,6 +161,11 @@ const routes = [
                 path: 'sei',
                 name: 'Sei',
                 component: Sei
+            },
+            {
+                path: 'cnib',
+                name: 'CNIB',
+                component: Cnib,
             }
         ]
     }

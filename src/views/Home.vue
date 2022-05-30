@@ -14,6 +14,7 @@
           <p>SISBAJUD</p>
           <p>RENAJUD</p>
           <p>SERASAJUD</p>
+          <p>CNIB</p>
         </b-card-text>
       </b-card>
       <!--      <b-card title="Sistemas de Apoio à Jurisdição" img-src="https://picsum.photos/300/300/" img-alt="Image"-->

@@ -24,6 +24,10 @@
             alt="Banco Nacional de Monitoramento de Prisões" class="nav-logo" src="@/assets/png/arrest.png">
           BNMP
         </b-link>
+        <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/cnib"><img
+            alt="Central Nacional de Indisponibilidade de Bens" class="nav-logo" src="@/assets/png/casa.png">
+          CNIB
+        </b-link>
         <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/bancoperitos"><img
             alt="Banco de Peritos" class="nav-logo" src="@/assets/png/riot-police.png">
           BANCO PERITOS
@@ -85,8 +89,6 @@
     </div>
 
     <p class="text-center pt-5">Desenvolvimento <strong>SESCO</strong></p>
-
-
   </div>
 </template>
 <script>
@@ -102,7 +104,7 @@ export default {
 </script>
 <style>
 html, body {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Avenir, Helvetica, Arial, sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /*text-align: center;*/
