@@ -2,12 +2,10 @@
   <div class="container-content">
     <section class="pb-5">
       <div class="text-center pt-4">
-        <img src="@/assets/sinic.png" alt="img">
+        <img alt="img" src="@/assets/sinic.png">
       </div>
       <b-link class="pb-5" to="/sistemas-apoio-jurisdicao">Voltar</b-link>
-      <div class="pt-5 text-center text-danger">
-        <h4>- em implantação -</h4>
-      </div>
+
 
       <div class="pt-3">
         <h4>Para que serve:</h4>
@@ -19,34 +17,42 @@
 
       <div class="pt-3">
         <h4>Manual do Sistema:</h4>
-        <p><a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/1-manual-sinic-act-novembro-2018/at_download/file">Clique aqui para acessar o Manual</a>
+        <p><a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/1-manual-sinic-act-novembro-2018/at_download/file">Clique
+          aqui para acessar o Manual</a>
         </p>
       </div>
 
       <div class="pt-3">
         <h4>Cursos e treinamentos:</h4>
-        <p>Disponível no Portal de Educação a Distância da Polícia Federal.  Para acessar ao curso, cada interessado deve ingressar no sítio da
-           <a href="https://ead.dpf.gov.br/index.php?p=anpcidada">ANP Cidadã - Público</a> e cadastrar-se na plataforma, inserindo alguns dados solicitados</p>
-        <p>Após o cadastro, o servidor deverá solicitar o código para se inscrever no curso SINICx - 2021.x1 enviando um e-mail
-          <a href="mailto:">agvpcre-lista@tre-go.jus.br</a>.</p>
+        <p>Está disponível no Portal de Educação a Distância da Polícia Federal, no sítio da <a
+            href="https://ead.dpf.gov.br/index.php?p=anpcidada">ANP Cidadã - Público</a>, o curso SINICx - 2022.x1.</p>
+        <p>É necessário cadastrar-se na plataforma e encaminhar os dados pessoais (nome, CPF, matrícula, e-mail
+          institucional, órgão e local da lotação) para <a href="mailto:sinic.ini@dpf.gov.br">sinic.ini@dpf.gov</a>.
+          Após análise da solicitação você receberá
+          por e-mail uma senha para inscrição.</p>
       </div>
 
+      <!--      <div class="pt-3">
+              <h4>Link de acesso:</h4>
+              <p><a href="#">A ser definido</a>
+              </p>
+            </div>-->
+
       <div class="pt-3">
-        <h4>Link de acesso:</h4>
-        <p><a href="#">A ser definido</a>
-        </p>
+        <h4>Solicitação de acesso:</h4>
+        <p>Preencher o <a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/2-requerimento/at_download/file">Requerimento
+          de Cadastramento de Usuário SINIC/SINCAC</a>, assinar, colher a assinatura do superior imediato e enviá-lo
+          para o email
+          <a href="mailto:nid.drex.srgo@pf.gov.br">nid.drex.srgo@pf.gov.br</a>, conforme <a
+              href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/3-despacho-pf-orientacoes/at_download/file">orientação
+            da Polícia Federal</a>.</p>
+
       </div>
 
       <div class="pt-3">
         <h4>Forma de acesso:</h4>
-        <p>A ser definido</p>
-      </div>
-
-      <div class="pt-3">
-        <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/2-requerimento/at_download/file">Requerimento de Cadastramento de Usuário SINIC/SINCAC</a>, assinar, colher a assinatura do superior imediato e enviá-lo para o email
-          <a href="mailto:nid.drex.srgo@pf.gov.br">nid.drex.srgo@pf.gov.br</a>, conforme <a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/3-despacho-pf-orientacoes/at_download/file">orientação da Polícia Federal </a>.</p>
-        <p>Após receber a senha provisória de acesso, abrir chamado junto à SEGEC para instalação do aplicativo utilizado para conexão VPN com a PF.</p>
+        <p>Após receber a senha provisória de acesso, abrir chamado junto à SEGEC para instalação do aplicativo
+          utilizado para conexão VPN com a PF.</p>
       </div>
 
       <div class="pt-3">
@@ -58,14 +64,15 @@
 
       <div class="pt-3">
         <h4>Normativos:</h4>
-        <p><a href="Acordo-de-Cooperacao-Tecnica.pdf">Acordo de Cooperação </a>Técnica entre o TRE-GO e a Polícia Federal em 27/07/2020.</p>
+        <p><a href="Acordo-de-Cooperacao-Tecnica.pdf">Acordo de Cooperação </a>Técnica entre o TRE-GO e a Polícia
+          Federal em 27/07/2020.</p>
         <p><a href="http://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del3689.htm#art809">Código de Processo Penal, art.
-          809, §3º</a></p>
+          809, §3º</a>.</p>
       </div>
 
       <div class="pt-3">
         <h4>Suporte:</h4>
-        <p>Email: <a href="mailto:(em implantação)">(em implantação)</a> ou Telefone: (em implantação)</p>
+        <p>Email: <a href="mailto:sinic.ini.direx@pf.gov.br">sinic.ini.direx@pf.gov.br</a> ou Telefone: (61) 2024-9315</p>
       </div>
     </section>
 
@@ -79,8 +86,7 @@
 export default {
   name: "Sinic",
   data() {
-    return {
-    }
+    return {}
   },
 
 }
