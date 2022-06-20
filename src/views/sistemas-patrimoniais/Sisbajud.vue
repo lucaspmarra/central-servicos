@@ -3,7 +3,8 @@
     <section class="pb-5">
       <div class="text-center pt-4">
         <!--        <h3>Sistema de Busca de Ativos do Poder Judiciário – SISBAJUD</h3>-->
-        <img src="@/assets/sisbajud.png" alt="img">
+        <img class="d-sm-none d-md-block mx-auto" src="@/assets/sisbajud.png" alt="img">
+        <img class="d-none d-sm-block d-md-none mx-auto" src="@/assets/sisbajudMobile.png" alt="SisbaJud">
       </div>
       <b-link class="pb-5" to="/sistemas-patrimoniais">Voltar</b-link>
       <div class="pt-5">

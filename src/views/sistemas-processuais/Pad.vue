@@ -2,7 +2,8 @@
   <div class="container-content">
     <section class="pb-5">
       <div class="text-center pt-4">
-        <img src="@/assets/pad.png" alt="img">
+        <img class="d-sm-none d-md-block mx-auto" src="@/assets/pad.png" alt="PAD - Processo Administrativo Digital">
+        <img class="d-none d-sm-block d-md-none mx-auto w-75" src="@/assets/padMobile.png" alt="PAD - Processo Administrativo Digital">
       </div>
 
       <!--      <div class="pt-5">-->

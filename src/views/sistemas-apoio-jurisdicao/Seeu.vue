@@ -2,7 +2,8 @@
   <div class="container-content">
     <section class="pb-5">
       <div class="text-center pt-4">
-        <img src="@/assets/seeu.jpg" alt="img">
+        <img class="d-sm-none d-md-block mx-auto" src="@/assets/seeu.jpg" alt="Sistema Eletrônico de Execução Unificado">
+        <img class="d-none d-sm-block d-md-none mx-auto" src="@/assets/seeuMobile.jpg" alt="Sistema Eletrônico de Execução Unificado">
       </div>
       <b-link class="pb-5" to="/sistemas-apoio-jurisdicao">Voltar</b-link>
       <div class="pt-5 text-center text-danger">

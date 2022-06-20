@@ -2,7 +2,8 @@
   <div class="container-content">
     <section class="pb-5">
       <div class="text-center pt-4">
-        <img src="@/assets/pjecor.jpg" alt="img">
+        <img class="d-sm-none d-md-block mx-auto" src="@/assets/pjecor.jpg" alt="PJe Corregedoria">
+        <img class="d-none d-sm-block d-md-none mx-auto w-75" src="@/assets/pjecorMobile.jpg" alt="PJe Corregedoria">
       </div>
       <b-link class="pb-5 text-left" to="/sistemas-processuais">Voltar</b-link>
       <div class="pt-5 text-left">

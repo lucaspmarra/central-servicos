@@ -2,7 +2,8 @@
   <div class="container-content">
     <section class="pb-5">
       <div class="text-center pt-4">
-        <img src="@/assets/infodip-2.jpg" alt="img">
+        <img class="d-sm-none d-md-block mx-auto" src="@/assets/infodip-2.jpg" alt="Infodip">
+        <img class="d-none d-sm-block d-md-none mx-auto" src="@/assets/infodipMobile.jpg" alt="Infodip">
       </div>
       <b-link class="pb-5" to="/sistemas-cadastro-eleitoral">Voltar</b-link>
       <div class="pt-5">

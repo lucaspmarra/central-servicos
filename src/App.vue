@@ -87,8 +87,10 @@
     <div class="container">
       <router-view/>
     </div>
+    <section>
+      <p class="text-center pt-5">Desenvolvimento <strong>SESCO</strong></p>
+    </section>
 
-    <p class="text-center pt-5">Desenvolvimento <strong>SESCO</strong></p>
   </div>
 </template>
 <script>
@@ -99,7 +101,6 @@ export default {
   components: {
     Navbar,
   },
-
 }
 </script>
 <style>
@@ -115,6 +116,7 @@ html, body {
 #content-main {
   background-color: #F1F4F6;
 }
+
 .container-content {
   background-color: white;
   padding: 10px 10px 20px 20px;

@@ -2,7 +2,8 @@
   <div class="container-content">
     <section class="pb-5">
       <div class="text-center pt-4">
-        <img src="@/assets/infojud.png" alt="INFOJUD">
+        <img class="d-sm-none d-md-block mx-auto" src="@/assets/infojud.png" alt="INFOJUD">
+        <img class="d-none d-sm-block d-md-none mx-auto" src="@/assets/infojudMobile.png" alt="InfoJud">
       </div>
       <b-link class="pb-5" to="/sistemas-patrimoniais">Voltar</b-link>
       <div class="pt-5">
