@@ -14,7 +14,7 @@
       <b-navbar-nav class="ml-auto">
         <a href="https://www.tre-go.jus.br/">
           <img alt="Ir para a página do Tribunal Regional Eleitoral de Goiás " class="ml-auto tre-logo"
-               src="http://www.tse.jus.br/temas/imagens/logos/tre-go.png">
+               src="@/assets/tre-go.png">
         </a>
       </b-navbar-nav>
 
