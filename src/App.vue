@@ -9,7 +9,7 @@
         </b-link>
         <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/infojud"><img
             alt="Sistema de Informações ao Judiciário" class="nav-logo"
-            src="@/assets/png/111-goal.png"> INFOJUD
+            src="@/assets/png/111-goal.png">INFOJUD
         </b-link>
         <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/renajud"><img
             alt="Sistema de Restrições Judiciais sobre Veículos Automotores" class="nav-logo"
