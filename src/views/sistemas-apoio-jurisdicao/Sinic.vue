@@ -40,11 +40,11 @@
 
       <div class="pt-3">
         <h4>Solicitação de acesso:</h4>
-        <p>Preencher o <a href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/2-requerimento/at_download/file">Requerimento
+        <p>Preencher o <a href="2 - REQUERIMENTO.pdf">Requerimento
           de Cadastramento de Usuário SINIC/SINCAC</a>, assinar, colher a assinatura do superior imediato e enviá-lo
           para o email
           <a href="mailto:nid.drex.srgo@pf.gov.br">nid.drex.srgo@pf.gov.br</a>, conforme <a
-              href="https://www.tre-go.jus.br/o-tre/arquivos-gerais/3-despacho-pf-orientacoes/at_download/file">orientação
+              href="3 - Despacho PF_orientações.pdf">orientação
             da Polícia Federal</a>.</p>
 
       </div>
