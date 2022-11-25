@@ -70,11 +70,11 @@
           alt="Sistema de Inspeções e Correições Eleitorais"
           class="card-img"
         />
-        <h4>SICEL</h4>
+        <h4>SINCO</h4>
         <b-card-text>
-          Sistema de Inspeções e Correições da Justiça Eleitoral - SInCO
+          Sistema de Inspeções e Correições da Justiça Eleitoral - SINCO
         </b-card-text>
-        <b-link class="stretched-link" to="/navegacao/sicel"></b-link>
+        <b-link class="stretched-link" to="/navegacao/sinco"></b-link>
       </b-card>
 
       <b-card>

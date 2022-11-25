@@ -36,9 +36,9 @@
             alt="Sistema Eletrônico de Execução Unificado" class="nav-logo" src="@/assets/png/document.png">
           SEEU
         </b-link>
-        <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/sicel"><img
+        <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/sinco"><img
             alt="Sistema de Inspeções e Correições Eleitorais" class="nav-logo" src="@/assets/png/police-station.png">
-          SICEL
+          SINCO
         </b-link>
         <b-link class="btn btn-light text-left d-flex align-items-center" to="/navegacao/sinic"><img
             alt="Sistema Nacional de Informações Criminais da Polícia Federal" class="nav-logo"

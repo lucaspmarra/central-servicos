@@ -29,7 +29,7 @@
           <p>BNMP</p>
           <p>BANCO DE PERITOS</p>
           <p>SEEU</p>
-          <p>SICEL</p>
+          <p>SINCO</p>
           <p>SINIC</p>
           <p>SGT</p>
         </b-card-text>

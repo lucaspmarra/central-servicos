@@ -113,8 +113,8 @@ const routes = [
                 name: 'Sistema de Gestão de Tabelas Processuais Unificadas',
                 component: Sgt
             }, {
-                path: 'sicel',
-                name: 'Sistema de Inspeções e Correições Eleitorais',
+                path: 'sinco',
+                name: 'Sistema de Inspeções e Correições da Justiça Eleitoral',
                 component: Sicel
             }, {
                 path: 'bancoperitos',

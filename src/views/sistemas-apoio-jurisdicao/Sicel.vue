@@ -1,9 +1,9 @@
 <template>
   <div class="container-content">
     <section class="pb-5">
-      <div class="text-center pt-4">
+<!--       <div class="text-center pt-4">
         <img src="@/assets/sicel.png" alt="img" />
-      </div>
+      </div> -->
       <b-link class="pb-5" to="/sistemas-apoio-jurisdicao">Voltar</b-link>
       <div class="pt-5">
         <h4>Para que serve:</h4>
